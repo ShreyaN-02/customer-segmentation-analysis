@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Age Group,Income,Spending,Customer Segment
+1,Male,19,15,39,Young Adults,Low,Low,Budget Customer
+2,Male,21,15,81,Young Adults,Low,High,Potential customer
+3,Female,20,16,6,Young Adults,Low,Low,Budget Customer
+4,Female,23,16,77,Young Adults,Low,High,Potential customer
+5,Female,31,17,40,Adults,Low,Medium,Standard Customer
+6,Female,22,17,76,Young Adults,Low,High,Potential customer
+7,Female,35,18,6,Adults,Low,Low,Budget Customer
+8,Female,23,18,94,Young Adults,Low,High,Potential customer
+9,Male,64,19,3,Seniors,Low,Low,Budget Customer
+10,Female,30,19,72,Adults,Low,High,Potential customer
+11,Male,67,19,14,Seniors,Low,Low,Budget Customer
+12,Female,35,19,99,Adults,Low,High,Potential customer
+13,Female,58,20,15,Seniors,Low,Low,Budget Customer
+14,Female,24,20,77,Young Adults,Low,High,Potential customer
+15,Male,37,20,13,Mid-Aged,Low,Low,Budget Customer
+16,Male,22,20,79,Young Adults,Low,High,Potential customer
+17,Female,35,21,35,Adults,Low,Low,Budget Customer
+18,Male,20,21,66,Young Adults,Low,Medium,Standard Customer
+19,Male,52,23,29,Seniors,Low,Low,Budget Customer
+20,Female,35,23,98,Adults,Low,High,Potential customer
+21,Male,35,24,35,Adults,Low,Low,Budget Customer
+22,Male,25,24,73,Young Adults,Low,High,Potential customer
+23,Female,46,25,5,Mid-Aged,Medium,Low,Standard Customer
+24,Male,31,25,73,Adults,Medium,High,Standard Customer
+25,Female,54,28,14,Seniors,Medium,Low,Standard Customer
+26,Male,29,28,82,Adults,Medium,High,Standard Customer
+27,Female,45,28,32,Mid-Aged,Medium,Low,Standard Customer
+28,Male,35,28,61,Adults,Medium,Medium,Standard customer
+29,Female,40,29,31,Mid-Aged,Medium,Low,Standard Customer
+30,Female,23,29,87,Young Adults,Medium,High,Standard Customer
+31,Male,60,30,4,Seniors,Medium,Low,Standard Customer
+32,Female,21,30,73,Young Adults,Medium,High,Standard Customer
+33,Male,53,33,4,Seniors,Medium,Low,Standard Customer
+34,Male,18,33,92,Young Adults,Medium,High,Standard Customer
+35,Female,49,33,14,Mid-Aged,Medium,Low,Standard Customer
+36,Female,21,33,81,Young Adults,Medium,High,Standard Customer
+37,Female,42,34,17,Mid-Aged,Medium,Low,Standard Customer
+38,Female,30,34,73,Adults,Medium,High,Standard Customer
+39,Female,36,37,26,Mid-Aged,Medium,Low,Standard Customer
+40,Female,20,37,75,Young Adults,Medium,High,Standard Customer
+41,Female,65,38,35,Seniors,Medium,Low,Standard Customer
+42,Male,24,38,92,Young Adults,Medium,High,Standard Customer
+43,Male,48,39,36,Mid-Aged,Medium,Low,Standard Customer
+44,Female,31,39,61,Adults,Medium,Medium,Standard customer
+45,Female,49,39,28,Mid-Aged,Medium,Low,Standard Customer
+46,Female,24,39,65,Young Adults,Medium,Medium,Standard customer
+47,Female,50,40,55,Mid-Aged,Medium,Medium,Standard customer
+48,Female,27,40,47,Adults,Medium,Medium,Standard customer
+49,Female,29,40,42,Adults,Medium,Medium,Standard customer
+50,Female,31,40,42,Adults,Medium,Medium,Standard customer
+51,Female,49,42,52,Mid-Aged,Medium,Medium,Standard customer
+52,Male,33,42,60,Adults,Medium,Medium,Standard customer
+53,Female,31,43,54,Adults,Medium,Medium,Standard customer
+54,Male,59,43,60,Seniors,Medium,Medium,Standard customer
+55,Female,50,43,45,Mid-Aged,Medium,Medium,Standard customer
+56,Male,47,43,41,Mid-Aged,Medium,Medium,Standard customer
+57,Female,51,44,50,Seniors,Medium,Medium,Standard customer
+58,Male,69,44,46,Seniors,Medium,Medium,Standard customer
+59,Female,27,46,51,Adults,Medium,Medium,Standard customer
+60,Male,53,46,46,Seniors,Medium,Medium,Standard customer
+61,Male,70,46,56,Seniors,Medium,Medium,Standard customer
+62,Male,19,46,55,Young Adults,Medium,Medium,Standard customer
+63,Female,67,47,52,Seniors,Medium,Medium,Standard customer
+64,Female,54,47,59,Seniors,Medium,Medium,Standard customer
+65,Male,63,48,51,Seniors,Medium,Medium,Standard customer
+66,Male,18,48,59,Young Adults,Medium,Medium,Standard customer
+67,Female,43,48,50,Mid-Aged,Medium,Medium,Standard customer
+68,Female,68,48,48,Seniors,Medium,Medium,Standard customer
+69,Male,19,48,59,Young Adults,Medium,Medium,Standard customer
+70,Female,32,48,47,Adults,Medium,Medium,Standard customer
+71,Male,70,49,55,Seniors,Medium,Medium,Standard customer
+72,Female,47,49,42,Mid-Aged,Medium,Medium,Standard customer
+73,Female,60,50,49,Seniors,Medium,Medium,Standard customer
+74,Female,60,50,56,Seniors,Medium,Medium,Standard customer
+75,Male,59,54,47,Seniors,Medium,Medium,Standard customer
+76,Male,26,54,54,Adults,Medium,Medium,Standard customer
+77,Female,45,54,53,Mid-Aged,Medium,Medium,Standard customer
+78,Male,40,54,48,Mid-Aged,Medium,Medium,Standard customer
+79,Female,23,54,52,Young Adults,Medium,Medium,Standard customer
+80,Female,49,54,42,Mid-Aged,Medium,Medium,Standard customer
+81,Male,57,54,51,Seniors,Medium,Medium,Standard customer
+82,Male,38,54,55,Mid-Aged,Medium,Medium,Standard customer
+83,Male,67,54,41,Seniors,Medium,Medium,Standard customer
+84,Female,46,54,44,Mid-Aged,Medium,Medium,Standard customer
+85,Female,21,54,57,Young Adults,Medium,Medium,Standard customer
+86,Male,48,54,46,Mid-Aged,Medium,Medium,Standard customer
+87,Female,55,57,58,Seniors,Medium,Medium,Standard customer
+88,Female,22,57,55,Young Adults,Medium,Medium,Standard customer
+89,Female,34,58,60,Adults,Medium,Medium,Standard customer
+90,Female,50,58,46,Mid-Aged,Medium,Medium,Standard customer
+91,Female,68,59,55,Seniors,Medium,Medium,Standard customer
+92,Male,18,59,41,Young Adults,Medium,Medium,Standard customer
+93,Male,48,60,49,Mid-Aged,Medium,Medium,Standard customer
+94,Female,40,60,40,Mid-Aged,Medium,Medium,Standard customer
+95,Female,32,60,42,Adults,Medium,Medium,Standard customer
+96,Male,24,60,52,Young Adults,Medium,Medium,Standard customer
+97,Female,47,60,47,Mid-Aged,Medium,Medium,Standard customer
+98,Female,27,60,50,Adults,Medium,Medium,Standard customer
+99,Male,48,61,42,Mid-Aged,Medium,Medium,Standard customer
+100,Male,20,61,49,Young Adults,Medium,Medium,Standard customer
+101,Female,23,62,41,Young Adults,Medium,Medium,Standard customer
+102,Female,49,62,48,Mid-Aged,Medium,Medium,Standard customer
+103,Male,67,62,59,Seniors,Medium,Medium,Standard customer
+104,Male,26,62,55,Adults,Medium,Medium,Standard customer
+105,Male,49,62,56,Mid-Aged,Medium,Medium,Standard customer
+106,Female,21,62,42,Young Adults,Medium,Medium,Standard customer
+107,Female,66,63,50,Seniors,Medium,Medium,Standard customer
+108,Male,54,63,46,Seniors,Medium,Medium,Standard customer
+109,Male,68,63,43,Seniors,Medium,Medium,Standard customer
+110,Male,66,63,48,Seniors,Medium,Medium,Standard customer
+111,Male,65,63,52,Seniors,Medium,Medium,Standard customer
+112,Female,19,63,54,Young Adults,Medium,Medium,Standard customer
+113,Female,38,64,42,Mid-Aged,Medium,Medium,Standard customer
+114,Male,19,64,46,Young Adults,Medium,Medium,Standard customer
+115,Female,18,65,48,Young Adults,Medium,Medium,Standard customer
+116,Female,19,65,50,Young Adults,Medium,Medium,Standard customer
+117,Female,63,65,43,Seniors,Medium,Medium,Standard customer
+118,Female,49,65,59,Mid-Aged,Medium,Medium,Standard customer
+119,Female,51,67,43,Seniors,Medium,Medium,Standard customer
+120,Female,50,67,57,Mid-Aged,Medium,Medium,Standard customer
+121,Male,27,67,56,Adults,Medium,Medium,Standard customer
+122,Female,38,67,40,Mid-Aged,Medium,Medium,Standard customer
+123,Female,40,69,58,Mid-Aged,Medium,Medium,Standard customer
+124,Male,39,69,91,Mid-Aged,Medium,High,Standard Customer
+125,Female,23,70,29,Young Adults,High,Low,Conservative Customer
+126,Female,31,70,77,Adults,High,High,Premium Customer
+127,Male,43,71,35,Mid-Aged,High,Low,Conservative Customer
+128,Male,40,71,95,Mid-Aged,High,High,Premium Customer
+129,Male,59,71,11,Seniors,High,Low,Conservative Customer
+130,Male,38,71,75,Mid-Aged,High,High,Premium Customer
+131,Male,47,71,9,Mid-Aged,High,Low,Conservative Customer
+132,Male,39,71,75,Mid-Aged,High,High,Premium Customer
+133,Female,25,72,34,Young Adults,High,Low,Conservative Customer
+134,Female,31,72,71,Adults,High,High,Premium Customer
+135,Male,20,73,5,Young Adults,High,Low,Conservative Customer
+136,Female,29,73,88,Adults,High,High,Premium Customer
+137,Female,44,73,7,Mid-Aged,High,Low,Conservative Customer
+138,Male,32,73,73,Adults,High,High,Premium Customer
+139,Male,19,74,10,Young Adults,High,Low,Conservative Customer
+140,Female,35,74,72,Adults,High,High,Premium Customer
+141,Female,57,75,5,Seniors,High,Low,Conservative Customer
+142,Male,32,75,93,Adults,High,High,Premium Customer
+143,Female,28,76,40,Adults,High,Medium,Standard Customer
+144,Female,32,76,87,Adults,High,High,Premium Customer
+145,Male,25,77,12,Young Adults,High,Low,Conservative Customer
+146,Male,28,77,97,Adults,High,High,Premium Customer
+147,Male,48,77,36,Mid-Aged,High,Low,Conservative Customer
+148,Female,32,77,74,Adults,High,High,Premium Customer
+149,Female,34,78,22,Adults,High,Low,Conservative Customer
+150,Male,34,78,90,Adults,High,High,Premium Customer
+151,Male,43,78,17,Mid-Aged,High,Low,Conservative Customer
+152,Male,39,78,88,Mid-Aged,High,High,Premium Customer
+153,Female,44,78,20,Mid-Aged,High,Low,Conservative Customer
+154,Female,38,78,76,Mid-Aged,High,High,Premium Customer
+155,Female,47,78,16,Mid-Aged,High,Low,Conservative Customer
+156,Female,27,78,89,Adults,High,High,Premium Customer
+157,Male,37,78,1,Mid-Aged,High,Low,Conservative Customer
+158,Female,30,78,78,Adults,High,High,Premium Customer
+159,Male,34,78,1,Adults,High,Low,Conservative Customer
+160,Female,30,78,73,Adults,High,High,Premium Customer
+161,Female,56,79,35,Seniors,High,Low,Conservative Customer
+162,Female,29,79,83,Adults,High,High,Premium Customer
+163,Male,19,81,5,Young Adults,High,Low,Conservative Customer
+164,Female,31,81,93,Adults,High,High,Premium Customer
+165,Male,50,85,26,Mid-Aged,High,Low,Conservative Customer
+166,Female,36,85,75,Mid-Aged,High,High,Premium Customer
+167,Male,42,86,20,Mid-Aged,High,Low,Conservative Customer
+168,Female,33,86,95,Adults,High,High,Premium Customer
+169,Female,36,87,27,Mid-Aged,High,Low,Conservative Customer
+170,Male,32,87,63,Adults,High,Medium,Standard Customer
+171,Male,40,87,13,Mid-Aged,High,Low,Conservative Customer
+172,Male,28,87,75,Adults,High,High,Premium Customer
+173,Male,36,87,10,Mid-Aged,High,Low,Conservative Customer
+174,Male,36,87,92,Mid-Aged,High,High,Premium Customer
+175,Female,52,88,13,Seniors,High,Low,Conservative Customer
+176,Female,30,88,86,Adults,High,High,Premium Customer
+177,Male,58,88,15,Seniors,High,Low,Conservative Customer
+178,Male,27,88,69,Adults,High,Medium,Standard Customer
+179,Male,59,93,14,Seniors,High,Low,Conservative Customer
+180,Male,35,93,90,Adults,High,High,Premium Customer
+181,Female,37,97,32,Mid-Aged,High,Low,Conservative Customer
+182,Female,32,97,86,Adults,High,High,Premium Customer
+183,Male,46,98,15,Mid-Aged,High,Low,Conservative Customer
+184,Female,29,98,88,Adults,High,High,Premium Customer
+185,Female,41,99,39,Mid-Aged,High,Low,Conservative Customer
+186,Male,30,99,97,Adults,High,High,Premium Customer
+187,Female,54,101,24,Seniors,High,Low,Conservative Customer
+188,Male,28,101,68,Adults,High,Medium,Standard Customer
+189,Female,41,103,17,Mid-Aged,High,Low,Conservative Customer
+190,Female,36,103,85,Mid-Aged,High,High,Premium Customer
+191,Female,34,103,23,Adults,High,Low,Conservative Customer
+192,Female,32,103,69,Adults,High,Medium,Standard Customer
+193,Male,33,113,8,Adults,High,Low,Conservative Customer
+194,Female,38,113,91,Mid-Aged,High,High,Premium Customer
+195,Female,47,120,16,Mid-Aged,High,Low,Conservative Customer
+196,Female,35,120,79,Adults,High,High,Premium Customer
+197,Female,45,126,28,Mid-Aged,High,Low,Conservative Customer
+198,Male,32,126,74,Adults,High,High,Premium Customer
+199,Male,32,137,18,Adults,High,Low,Conservative Customer
+200,Male,30,137,83,Adults,High,High,Premium Customer
